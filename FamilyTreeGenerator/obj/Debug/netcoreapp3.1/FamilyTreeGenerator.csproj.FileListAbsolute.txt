@@ -1,0 +1,12 @@
+C:\Users\funny\source\repos\FamilyTreeGenerator\FamilyTreeGenerator\obj\Debug\netcoreapp3.1\FamilyTreeGenerator.AssemblyInfoInputs.cache
+C:\Users\funny\source\repos\FamilyTreeGenerator\FamilyTreeGenerator\obj\Debug\netcoreapp3.1\FamilyTreeGenerator.AssemblyInfo.cs
+C:\Users\funny\source\repos\FamilyTreeGenerator\FamilyTreeGenerator\obj\Debug\netcoreapp3.1\FamilyTreeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\funny\source\repos\FamilyTreeGenerator\FamilyTreeGenerator\bin\Debug\netcoreapp3.1\FamilyTreeGenerator.exe
+C:\Users\funny\source\repos\FamilyTreeGenerator\FamilyTreeGenerator\bin\Debug\netcoreapp3.1\FamilyTreeGenerator.deps.json
+C:\Users\funny\source\repos\FamilyTreeGenerator\FamilyTreeGenerator\bin\Debug\netcoreapp3.1\FamilyTreeGenerator.runtimeconfig.json
+C:\Users\funny\source\repos\FamilyTreeGenerator\FamilyTreeGenerator\bin\Debug\netcoreapp3.1\FamilyTreeGenerator.runtimeconfig.dev.json
+C:\Users\funny\source\repos\FamilyTreeGenerator\FamilyTreeGenerator\bin\Debug\netcoreapp3.1\FamilyTreeGenerator.dll
+C:\Users\funny\source\repos\FamilyTreeGenerator\FamilyTreeGenerator\bin\Debug\netcoreapp3.1\FamilyTreeGenerator.pdb
+C:\Users\funny\source\repos\FamilyTreeGenerator\FamilyTreeGenerator\obj\Debug\netcoreapp3.1\FamilyTreeGenerator.dll
+C:\Users\funny\source\repos\FamilyTreeGenerator\FamilyTreeGenerator\obj\Debug\netcoreapp3.1\FamilyTreeGenerator.pdb
+C:\Users\funny\source\repos\FamilyTreeGenerator\FamilyTreeGenerator\obj\Debug\netcoreapp3.1\FamilyTreeGenerator.genruntimeconfig.cache

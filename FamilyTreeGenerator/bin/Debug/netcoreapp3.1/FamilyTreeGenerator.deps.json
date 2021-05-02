@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FamilyTreeGenerator/1.0.0": {
+        "runtime": {
+          "FamilyTreeGenerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FamilyTreeGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
